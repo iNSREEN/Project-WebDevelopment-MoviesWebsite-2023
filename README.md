@@ -14,8 +14,10 @@ The Movie Website is a web application designed to showcase popular movies and k
 
 ## Screenshots
 
-![Homepage]()
-![Kids Movies]()
+![Homepage](screenshot/MainPage.png)
+![Kids Movies](screenshot/Kids.png)
+![Review Movies](screenshot/Reveiw.png)
+![Search Movies](screenshot/Search.png)
 
 ## Key Features
 1. **Movie Browsing and Discovery:** The website offers a curated collection of popular movies for users to explore. They can browse movies by genre and search for specific titles.
