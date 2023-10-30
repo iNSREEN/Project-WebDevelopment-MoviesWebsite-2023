@@ -13,10 +13,16 @@ The Movie Website is a web application designed to showcase popular movies and k
 3. Enable users to add, edit, and delete movie reviews for engagement.
 
 ## Screenshots
-
+1. The Main Page offers a collection of popular movies
 ![Homepage](screenshot/MainPage.png)
+
+2. The Kids Page offers a selection of movies suitable for children under 16
 ![Kids Movies](screenshot/Kids.png)
+
+3. You can view, add, update, or delete reviews for any movie
 ![Review Movies](screenshot/Reveiw.png)
+
+4. Additionally, you can search for any movie you desire, such as 'SAW
 ![Search Movies](screenshot/Search.png)
 
 ## Key Features
