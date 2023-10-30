@@ -12,6 +12,12 @@ The Movie Website is a web application designed to showcase popular movies and k
 2. Include a kids movies section for a safe and enjoyable experience.
 3. Enable users to add, edit, and delete movie reviews for engagement.
 
+## Key Features
+1. **Movie Browsing and Discovery:** The website offers a curated collection of popular movies for users to explore. They can browse movies by genre and search for specific titles.
+2. **User Reviews and Discussions:** Users can add, edit, and delete movie reviews to share their opinions and insights. The website fosters community engagement by enabling users to discuss movies, rate them, and interact with other reviewers.
+3. **Kids Movies Section:** The website includes a dedicated section for kids movies, ensuring a safe and enjoyable browsing experience for young users. It offers a selection of age-appropriate content and parental controls.
+4. **Powerful Search Functionality:** The search feature allows users to find movies quickly and efficiently. Users can search by movie title.
+
 ## Screenshots
 1. The Main Page offers a collection of popular movies
 ![Homepage](screenshot/MainPage.png)
@@ -25,13 +31,7 @@ The Movie Website is a web application designed to showcase popular movies and k
 4. Additionally, you can search for any movie you desire, such as 'SAW
 ![Search Movies](screenshot/Search.png)
 
-## Key Features
-1. **Movie Browsing and Discovery:** The website offers a curated collection of popular movies for users to explore. They can browse movies by genre and search for specific titles.
-2. **User Reviews and Discussions:** Users can add, edit, and delete movie reviews to share their opinions and insights. The website fosters community engagement by enabling users to discuss movies, rate them, and interact with other reviewers.
-3. **Kids Movies Section:** The website includes a dedicated section for kids movies, ensuring a safe and enjoyable browsing experience for young users. It offers a selection of age-appropriate content and parental controls.
-4. **Powerful Search Functionality:** The search feature allows users to find movies quickly and efficiently. Users can search by movie title.
-
-## Underlying Technologies
+## Technologies
 The Movie Website is built using the following technologies:
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Node.js
