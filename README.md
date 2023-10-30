@@ -42,3 +42,9 @@ The Movie Website is built using the following technologies:
 - **Movie Data:** The Movie Database (TMDB) API ([TMDB Website](https://www.themoviedb.org/))
 
 The frontend utilizes HTML5, CSS3, and JavaScript to create an intuitive and visually appealing user interface. The backend is developed using Node.js, a powerful and scalable JavaScript runtime. The website stores data in a MongoDB database, providing flexibility and scalability for managing movie information and user reviews. Additionally, the movie information is retrieved from The Movie Database (TMDB) API, allowing users to access a vast collection of movies and related data.
+
+##Team members
+Nsreen Mousa Alfaifi
+Rwaida Hamad Alajlan
+Lama Waleed Almazroa 
+
