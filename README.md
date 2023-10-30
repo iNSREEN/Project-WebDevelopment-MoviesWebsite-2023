@@ -18,6 +18,9 @@ The Movie Website is a web application designed to showcase popular movies and k
 3. **Kids Movies Section:** The website includes a dedicated section for kids movies, ensuring a safe and enjoyable browsing experience for young users. It offers a selection of age-appropriate content and parental controls.
 4. **Powerful Search Functionality:** The search feature allows users to find movies quickly and efficiently. Users can search by movie title.
 
+## Flowchart 
+
+![Flowchart](screenshot/flowchart.jpg)
 ## Screenshots
 1. The Main Page offers a collection of popular movies
 ![Homepage](screenshot/MainPage.png)
